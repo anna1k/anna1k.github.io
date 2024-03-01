@@ -6,6 +6,18 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
+
+
+
+#### better/square photo
+#### remove footer
+#### set security settings
+
+
+
+
+
+
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Anna Kay"
@@ -21,7 +33,7 @@ repository               : "anna1k/anna1k.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_photo_AK.jpg"
+  avatar           : "profile_photo_AKsquare.jpg"
   name             : "Anna Kay"
   pronouns         : # example: "she/her"  
   bio              : "MD-PhD trainee in CSE | AI Lab | Computer Vision"

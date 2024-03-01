@@ -21,7 +21,7 @@ repository               : "anna1k/anna1k.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_photo_AK.jpg"
   name             : "Anna Kay"
   pronouns         : # example: "she/her"  
   bio              : "MD-PhD trainee in CSE | AI Lab | Computer Vision"

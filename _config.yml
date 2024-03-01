@@ -12,7 +12,7 @@ title                    : "Anna Kay"
 title_separator          : "-"
 name                     : &name "Anna Kay"
 description              : &description "MD-PhD student, CSE pre-candidate"
-url                      : https://anna1k.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://anna1k.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "anna1k/anna1k.github.io"
 

@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-3rd year MD-PhD, 1st year PhD student in Computer Science and Engineering at the University of Michigan, advised by Prof. [Stella Yu](https://web.eecs.umich.edu/~stellayu/)
+4th year MD-PhD, 2nd year PhD student in Computer Science and Engineering at the University of Michigan, advised by Prof. [Stella Yu](https://web.eecs.umich.edu/~stellayu/)
 ---
 
 

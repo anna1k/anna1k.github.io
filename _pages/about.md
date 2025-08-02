@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-MD-PhD student at the University of Michigan, working on machine learning and computer vision
+MD-PhD student at the University of Michigan, working on machine learning and computer vision.
 
 <!-- 4th year MD-PhD, 2nd year PhD student in Computer Science and Engineering at the University of Michigan, advised by Prof. [Stella Yu](https://web.eecs.umich.edu/~stellayu/) -->
 ---
